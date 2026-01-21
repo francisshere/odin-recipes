@@ -1,0 +1,27 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main-container {
+    background-color: bisque;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    font-size: 42px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.recipe-links ul {
+    list-style-type: circle;
+    font-size: 20px;
+    text-align: justify;
+    padding-left: 30px;
+}
+
+.recipe-links li {
+    margin-bottom: 15px;
+}
