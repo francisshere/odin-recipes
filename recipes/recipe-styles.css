@@ -1,0 +1,40 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    box-shadow: 8px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+em {
+    color: darkred;
+}
+
+p {
+    font-size: 18px;
+    font-style: italic;
+    text-align: justify;
+}
+
+a {
+    font-size: 15px;
+    font-weight: bold;
+    color: red;
+}
+
+.main-container {
+    background-color: bisque;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    font-size: 42px;
+    font-weight: bold;
+    text-align: center;
+}
+
